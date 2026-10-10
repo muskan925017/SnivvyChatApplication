@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043993482534",
+    "project_id": "snivvychats",
+    "storage_bucket": "snivvychats.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043993482534:android:4f87afe3994e2efb941de7",
+        "android_client_info": {
+          "package_name": "com.example.snivvy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDclva1pYRRl9o_9nF2Z6euh4FPfvc7AL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
